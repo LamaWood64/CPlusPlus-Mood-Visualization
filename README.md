@@ -40,8 +40,7 @@ Based on the detected mood, the program renders a cartoon frog with different ex
 - 😢 **Sad**: frown with a tear  
 
 ---
-<img src="HAPPY%20frog%20result.png" alt="Happy Frog" width="200"/>  
-<img src="SAD%20frog%20result.png" alt="SAD Frog" width="200"/> 
-<img src="OKAY%20frog%20result.png" alt="OKAY Frog" width="200"/>
+<img src="HAPPY%20frog%20result.png" alt="Happy Frog" width="200"/> <img src="SAD%20frog%20result.png" alt="SAD Frog" width="200"/> <img src="OKAY%20Frog%20result.png" alt="Okay Frog" width="200"/>
+
 
 
