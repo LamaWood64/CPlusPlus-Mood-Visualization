@@ -37,7 +37,7 @@ This ensures accurate matching with the dictionary.
 Based on the detected mood, the program renders a cartoon frog with different expressions:  
 - 😊 **Happy**: smiling frog  
 - 😐 **Neutral**: straight face  
-- 😢 **Sad**: frown with a tear  
+- 😢 **Sad**: frog with a tear  
 
 ---
 <img src="HAPPY%20frog%20result.png" alt="Happy Frog" width="200"/> <img src="SAD%20frog%20result.png" alt="SAD Frog" width="200"/> <img src="OKAY%20Frog%20result.png" alt="Okay Frog" width="200"/>
